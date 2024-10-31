@@ -41,6 +41,13 @@ The dataset consists of **11 attributes** and **1 output attribute** (class). Th
 To set up the project, clone this repository and install the required libraries:
 
 ```bash
+
+
 git clone https://github.com/Anitha-Balachandran/ForestFirePrediction.git
 cd ForestFirePrediction
 pip install -r requirements.txt
+
+## Demo
+
+https://github.com/user-attachments/assets/b79fb58b-8d32-4416-b001-378dea5eacfb
+
