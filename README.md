@@ -37,6 +37,11 @@ The dataset consists of **11 attributes** and **1 output attribute** (class). Th
 - Python
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
+
+## Output
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/4533dd2f-ce60-4d79-b35b-968ae8c58724">
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/68af57e0-5bcf-4162-9350-a1578f0bd283">
+
 ## Installation
 To set up the project, clone this repository and install the required libraries:
 
@@ -47,8 +52,9 @@ git clone https://github.com/Anitha-Balachandran/ForestFirePrediction.git
 cd ForestFirePrediction
 pip install -r requirements.txt
 
-## Output
-<img width="649" alt="image" src="https://github.com/user-attachments/assets/4533dd2f-ce60-4d79-b35b-968ae8c58724">
-<img width="693" alt="image" src="https://github.com/user-attachments/assets/68af57e0-5bcf-4162-9350-a1578f0bd283">
+
+
+
+
 
 
