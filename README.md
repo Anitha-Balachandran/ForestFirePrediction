@@ -47,7 +47,8 @@ git clone https://github.com/Anitha-Balachandran/ForestFirePrediction.git
 cd ForestFirePrediction
 pip install -r requirements.txt
 
-## Demo
+## Output
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/4533dd2f-ce60-4d79-b35b-968ae8c58724">
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/68af57e0-5bcf-4162-9350-a1578f0bd283">
 
-https://github.com/user-attachments/assets/b79fb58b-8d32-4416-b001-378dea5eacfb
 
